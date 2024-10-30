@@ -1,0 +1,46 @@
+body {
+    background-color: #333333;
+    color: #F8F7F1;
+    font-family: "Zen Maru Gothic", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+#logo {
+    margin: 30px 0;
+    height: 70px;
+}
+
+table {
+    margin: 0 auto;
+    font-size: 12px;
+}
+
+.item {
+    padding: 15px 8px 15px 0;
+}
+
+input {
+    height: 30px;
+    color: #333;
+    background-color: #F8F7F1;
+    border-radius: 5px;
+    font-size: 12px;
+    border: none;
+}
+
+#btn_login {
+    margin: 50px 0 20px 0;
+    padding: 8px 30px;
+    border-radius: 20px;
+    font-size: 12px;
+    border: none;
+    background-color: #c74838;
+    color: white;
+}
+
+#signup {
+    font-size: 12px;
+    color: #f8f7f1;
+}
